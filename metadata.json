@@ -1,0 +1,6 @@
+{
+  "name": "Access Gate",
+  "description": "Mobile resort gate pass and community navigation portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
